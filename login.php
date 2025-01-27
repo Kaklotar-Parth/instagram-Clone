@@ -76,7 +76,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </div>
             </div>
             <div class="icon" align="center">
-                <img src="./sing.png" alt="" id="logo2">
+                <img src="./sign.png" alt="" id="logo2">
                 <a href="" id="logotxt">Log in with Facebook</a>
             </div>
         </div>
